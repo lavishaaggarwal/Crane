@@ -1,0 +1,10 @@
+/home/lavisha2/vm1.log
+/home/lavisha2/vm2.log
+/home/lavisha2/vm3.log
+/home/lavisha2/vm4.log
+/home/lavisha2/vm5.log
+/home/lavisha2/vm6.log
+/home/lavisha2/vm7.log
+/home/lavisha2/vm8.log
+/home/lavisha2/vm9.log
+/home/lavisha2/vm10.log
